@@ -5,13 +5,13 @@
             <element>comments</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-01-26 20:42:51</sys_created_on>
-            <sys_id>ad2925f50fa03200cd674f8ce1050e3d</sys_id>
+            <sys_created_on>2018-08-03 09:30:23</sys_created_on>
+            <sys_id>9000dc88db331300a99e2bfa4b961994</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="Default view">252925f50fa03200cd674f8ce1050e27</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-01-26 20:42:51</sys_updated_on>
+            <sys_updated_on>2018-08-03 09:30:23</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,29 +19,29 @@
             <element>work_notes</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-01-26 20:42:51</sys_created_on>
-            <sys_id>212925f50fa03200cd674f8ce1050e3e</sys_id>
+            <sys_created_on>2018-08-03 09:30:23</sys_created_on>
+            <sys_id>1400dc88db331300a99e2bfa4b961994</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="Default view">252925f50fa03200cd674f8ce1050e27</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-01-26 20:42:51</sys_updated_on>
+            <sys_updated_on>2018-08-03 09:30:23</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>activity.xml</element>
+            <element>approval_history</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-01-26 20:42:51</sys_created_on>
-            <sys_id>a12925f50fa03200cd674f8ce1050e3e</sys_id>
+            <sys_created_on>2018-08-03 09:30:23</sys_created_on>
+            <sys_id>9400dc88db331300a99e2bfa4b961994</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter display_value="">b832d3560a0001c700d781efe21e22f5</sys_ui_formatter>
+            <sys_ui_formatter/>
             <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="Default view">252925f50fa03200cd674f8ce1050e27</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-01-26 20:42:51</sys_updated_on>
+            <sys_updated_on>2018-08-03 09:30:23</sys_updated_on>
             <sys_user/>
-            <type>formatter</type>
+            <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Log</caption>
